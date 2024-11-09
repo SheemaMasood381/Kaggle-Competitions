@@ -35,4 +35,4 @@ I will be continuously updating this repository with new competition entries and
 For any questions or collaboration opportunities, feel free to reach out to me via email or GitHub issues.
 
 Happy data science!
-<div align="right"> <img src="https://www.flaticon.com/svg/static/icons/svg/3896/3896610.svg" alt="Data Science Icon" width="100"/> </div> ```
+<div align="right"> <img src="images/data-science-icon.png" alt="Data Science Icon" width="300"/> </div> ```
