@@ -16,7 +16,7 @@ This repository contains all the notebooks and code related to the Kaggle compet
 
 1. **Clone the Repository**:
 
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/SheemaMasood381/Kaggle-Competitions.git
 
 2. **Navigate to the Directory:**
 
